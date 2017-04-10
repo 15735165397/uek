@@ -1,0 +1,270 @@
+{
+	"index.html": {
+		"resources": [
+			"img/08.png",
+			"img/ban.png",
+			"img/03.png",
+			"img/04.png",
+			"img/07.png",
+			"css/index.css",
+			"img/02.png",
+			"img/3-1.png",
+			"img/2-2.png",
+			"img/05.png",
+			"img/06.png",
+			"img/3-3.png",
+			"img/3-2.png",
+			"img/01.png",
+			"img/2-1.png",
+			"js/index.js",
+			"icon/iconfont.woff",
+			"css/iconfont.css",
+			"ui.html",
+			"shizi.html",
+			"wenti.html",
+			"zixun.html",
+			"php.html",
+			"web.html",
+			"quanzhan.html",
+			"xueyuan.html"
+		],
+		"refer": [
+			"ui.html",
+			"shizi.html",
+			"wenti.html",
+			"zixun.html",
+			"php.html",
+			"web.html",
+			"quanzhan.html",
+			"xueyuan.html"
+		]
+	},
+	"ui.html": {
+		"resources": [
+			"img/b-t-3.png",
+			"img/b-1-3.png",
+			"img/b-1-4.png",
+			"img/ht.png",
+			"img/ht1.png",
+			"img/b-4-1.png",
+			"img/b-4-4.png",
+			"img/b-3.png",
+			"img/b-2.png",
+			"img/b-t-1.png",
+			"img/b-1-2.png",
+			"img/b-4-3.png",
+			"img/b-4-2.png",
+			"img/b-0.png",
+			"img/b2.png",
+			"img/b-4-5.png",
+			"img/b-1-5.png",
+			"css/ui.css",
+			"img/b-1-1.png",
+			"img/b-1-6.png",
+			"img/bg.png",
+			"img/b-1.png",
+			"img/b-t-2.png"
+		]
+	},
+	"xueyuan.html": {
+		"resources": [
+			"img/xueyuan-03.png",
+			"css/xueyuan.css",
+			"img/xueyuan-05.png",
+			"img/xueyuan-02.png",
+			"img/xueyuan-01.png",
+			"img/xueyuan-04.png",
+			"zixun.html",
+			"index.html"
+		],
+		"refer": [
+			"zixun.html",
+			"index.html"
+		]
+	},
+	"shizi.html": {
+		"resources": [
+			"img/shizi-z-3.png",
+			"img/shizi-banner.jpg",
+			"img/shizi-05.png",
+			"img/dayu.png",
+			"xueyuan.html",
+			"img/shizi-z-4.png",
+			"img/shizi-03.png",
+			"img/shizi-04.png",
+			"img/shizi-02.png",
+			"img/shizi-01.png",
+			"img/shizi-z-1.png",
+			"css/shizi.css",
+			"img/shizi-z-2.png",
+			"index.html",
+			"icon/iconfont.woff",
+			"css/iconfont.css",
+			"js/index.js"
+		],
+		"refer": [
+			"xueyuan.html",
+			"index.html"
+		]
+	},
+	"wenti.html": {
+		"resources": [
+			"img/wenti-banner.jpg",
+			"css/wenti.css",
+			"img/wenti-dian.png",
+			"index.html",
+			"img/shizi-z-3.png",
+			"img/dayu.png",
+			"img/shizi-z-4.png",
+			"img/shizi-z-1.png",
+			"img/shizi-z-2.png",
+			"icon/iconfont.woff",
+			"css/iconfont.css",
+			"js/index.js",
+			"zixun.html"
+		],
+		"refer": [
+			"index.html",
+			"zixun.html"
+		]
+	},
+	"zixun.html": {
+		"resources": [
+			"img/zixun-03.jpg",
+			"img/zixun-01.jpg",
+			"img/zx-banner.jpg",
+			"img/zixun-k.png",
+			"img/zixun-05.png",
+			"wenti.html",
+			"css/zixun.css",
+			"img/zixun-04.jpg",
+			"img/zixun-02.jpg",
+			"img/shizi-z-3.png",
+			"img/dayu.png",
+			"img/shizi-z-4.png",
+			"icon/iconfont.woff",
+			"css/iconfont.css",
+			"img/shizi-z-1.png",
+			"js/index.js",
+			"img/shizi-z-2.png",
+			"img/zixun--.png",
+			"shizi.html",
+			"index.html"
+		],
+		"refer": [
+			"wenti.html",
+			"shizi.html",
+			"index.html"
+		]
+	},
+	"php.html": {
+		"resources": [
+			"img/php-banner.png",
+			"img/b-1-4.png",
+			"img/b-1-3.png",
+			"img/php-pa.png",
+			"img/php-01.png",
+			"img/php-07.png",
+			"img/php-rt3.png",
+			"img/php-rt5.png",
+			"img/php-rt1.png",
+			"img/php-xhx.png",
+			"img/b-3.png",
+			"img/b-1-2.png",
+			"img/php-rt2.png",
+			"img/php-05.png",
+			"img/php-02.png",
+			"img/php-t1.png",
+			"img/phpren.png",
+			"img/b-1-5.png",
+			"img/b-1-1.png",
+			"img/php-1.png",
+			"img/php-04.png",
+			"img/php-rt4.png",
+			"img/php-t2.png",
+			"img/b-1-6.png",
+			"css/php.css",
+			"img/php-03.png",
+			"img/php-06.png",
+			"index.html",
+			"icon/iconfont.woff",
+			"css/iconfont.css",
+			"js/index.js"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"web.html": {
+		"resources": [
+			"css/web.css",
+			"img/xiaoren.png",
+			"img/w-zhxt.png",
+			"img/w-k1.png",
+			"img/ht.png",
+			"img/w-r.png",
+			"img/w-k2.png",
+			"img/ht1.png",
+			"img/w-l.png",
+			"img/msbm.png",
+			"img/w-banner.png",
+			"img/b-1-4.png",
+			"img/b-1-3.png",
+			"img/b-3.png",
+			"img/b-1-2.png",
+			"img/b-1-5.png",
+			"icon/iconfont.woff",
+			"css/iconfont.css",
+			"img/b-1-1.png",
+			"img/b-1-6.png",
+			"js/index.js"
+		]
+	},
+	"quanzhan.html": {
+		"resources": [
+			"css/quanzhan.css",
+			"img/qz-y8.png",
+			"img/php-x04.png",
+			"img/qz-2-5.png",
+			"img/php-x1.png",
+			"img/php-x3.png",
+			"img/qz-2-6.png",
+			"img/php-x03.png",
+			"img/php-x01.png",
+			"img/php-x02.png",
+			"img/php-gd.png",
+			"img/qz-banner.png",
+			"img/qz-y7.png",
+			"img/qz-y2.png",
+			"img/qz-y4.png",
+			"img/php-x06.png",
+			"img/qz-y3.png",
+			"img/qz-1.png",
+			"img/qz-2-3.png",
+			"img/php-x4.png",
+			"img/qz-ht.png",
+			"img/php-x5.png",
+			"img/qz-y6.png",
+			"img/b-3.png",
+			"img/php-x2.png",
+			"img/qz-y1.png",
+			"img/php-x6.png",
+			"img/php-bl.png",
+			"img/qz-ybj.png",
+			"img/qz-ht1.png",
+			"img/qz-2-1.png",
+			"img/qz-2-4.png",
+			"img/php-xzuek.png",
+			"img/qz-y5.png",
+			"img/php-x05.png",
+			"img/qz-2-2.png",
+			"index.html",
+			"icon/iconfont.woff",
+			"css/iconfont.css",
+			"js/index.js"
+		],
+		"refer": [
+			"index.html"
+		]
+	}
+}
