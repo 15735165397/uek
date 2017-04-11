@@ -2,7 +2,7 @@
 * @Author: Administrator
 * @Date:   2017-04-06 14:18:17
 * @Last Modified by:   Administrator
-* @Last Modified time: 2017-04-10 15:30:43
+* @Last Modified time: 2017-04-11 16:09:54
 */
 *{
 	margin: 0;
@@ -305,8 +305,8 @@ img{
 	font-size: 0.14rem;
 }
 .bao .pj .zx{
-	width: 1.70rem;
-	height: 1.10rem;
+	width: 1.72rem;
+	height: 1.11rem;
 	padding-top: 0.048rem;
 	background-image: url('../img/b-2.png');
 	background-size: cover;

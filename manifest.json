@@ -258,7 +258,10 @@
 					"img/b-1-6.png",
 					"img/bg.png",
 					"img/b-1.png",
-					"img/b-t-2.png"
+					"img/b-t-2.png",
+					"icon/iconfont.woff",
+					"css/iconfont.css",
+					"js/index.js"
 				],
 				"refer": [],
 				"priority": 0
