@@ -2,7 +2,7 @@
 * @Author: Administrator
 * @Date:   2017-04-08 14:22:25
 * @Last Modified by:   Administrator
-* @Last Modified time: 2017-04-10 15:45:46
+* @Last Modified time: 2017-04-11 09:14:08
 */
 *{
 	margin: 0;
@@ -380,12 +380,12 @@ body{
 	background-size: cover;
 	background-repeat:  no-repeat;
 	background-position: center;
-	animation-name: -webkit-animation1;
-	animation: -webkit-animation1 2s linear;
-	transform-origin: center center;
-	animation-iteration-count: infinite;
+	 -webkit-animation-name: animation1;
+	 -webkit-animation: animation1 2s linear;
+	 -webkit-transform-origin: center center;
+	 -webkit-animation-iteration-count: infinite;
 }
-@keyframes -webkit-animation1{
+@keyframes animation1{
 	0%{
 		transform: rotate(0deg);
 	}

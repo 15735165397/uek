@@ -2,7 +2,7 @@
 * @Author: Administrator
 * @Date:   2017-04-07 22:25:11
 * @Last Modified by:   Administrator
-* @Last Modified time: 2017-04-10 15:39:46
+* @Last Modified time: 2017-04-11 09:04:56
 */
 *{
 	margin: 0;
@@ -395,7 +395,7 @@ body{
 }
 .kech .box .botm .right{
 	width: 3rem;
-	height: auto;
+	height: 0.45rem;
 	float: right;
 	color: #FFF;
 	line-height: 0.2rem;
@@ -452,6 +452,22 @@ body{
 	height: 0.25rem;
 }
 .kech .box:nth-child(6) .botm .left{
+	height: 0.65rem;
+}
+
+.kech .box:nth-child(2) .botm .right{
+	height: 0.65rem;
+}
+.kech .box:nth-child(3) .botm .right{
+	height: 0.65rem;
+}
+.kech .box:nth-child(4) .botm .right{
+	height: 0.45rem;
+}
+.kech .box:nth-child(5) .botm .right{
+	height: 0.25rem;
+}
+.kech .box:nth-child(6) .botm .right{
 	height: 0.65rem;
 }
 
